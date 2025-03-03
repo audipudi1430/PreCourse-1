@@ -2,6 +2,7 @@
 # - append: O(n)
 # - find: O(n)
 # - remove: O(n)
+# Space Complexity: O(n)
 class ListNode:
     """
     A node in a singly-linked list.
